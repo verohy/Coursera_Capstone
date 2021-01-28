@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera_Capstone for Neighborhood Project
+Coursera Capstone for Project of Segmentation and Clustering the Neighborhoods of Toronto, Canada
